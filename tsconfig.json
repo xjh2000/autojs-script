@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "commonjs",
+    "lib": [
+      "DOM",
+      "es2015",
+    ],
+    "removeComments": false,
+    "skipLibCheck": true,
+    "sourceMap": false,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      "pro9": [
+        "node_modules/@autojs/types-pro9"
+      ],
+      "autojs-dev": [
+        "node_modules/autojs-dev/types/modules"
+      ]
+    }
+  }
+}
