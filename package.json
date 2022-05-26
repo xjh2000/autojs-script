@@ -7,8 +7,5 @@
         "autojs-dev": "0.7.1"
     },
     "author": "",
-    "license": "GPL-3.0",
-    "dependencies": {
-        "@autojs/types-pro9": "^9.0.0"
-    }
+    "license": "GPL-3.0"
 }
