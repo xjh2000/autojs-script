@@ -11,12 +11,6 @@ class Main {
         auto.setMode("fast");
         console.show();
         console.log("Hello World");
-        let havePackage = app.launchPackage('com.citic21.user');
-        if (!havePackage) {
-            print('没有找到应用');
-        } else {
-            print('找到应用');
-        }
     }
 }
 
